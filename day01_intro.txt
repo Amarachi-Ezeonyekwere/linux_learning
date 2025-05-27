@@ -1,0 +1,38 @@
+DAY 1 - INTRO TO LINUX
+=========================================================================================================
+
+Date: 27-May-2025
+
+Learning Objective : 
+
+1. Definition of Linux
+2. Importance of Linux in Cloud Computing, Devops and Cybersecurity
+
+WHAT I LEARNED TODAY
+
+> Linux is an open-source operating system based on Unix.
+> It powers servers, cloud platforms, Andriod devices and almost all DevOps tools.
+> It is light weight, fast, secure and customizable.
+> Distributions (distros) like Ubuntu, Centos, Debian and Red Hat are all different branches of Linux.
+
+KEY TERMS
+
+> Kernel : The core of the OS.
+> Shell : Interface to interact with the OS.
+> Terminal : The window where you type the commands.
+
+COMMANDS I TRIED TODAY:
+
+> ls - list files.
+> pwd - show present working directory.
+> whoami - shows current user.
+> clear - this clears everything typed on the terminal.
+> exit - exists the shell.
+
+REFLECTION:
+
+I feel excited and enthusiastic! Linux seems powerful but simple, but I believe with consistency I will build
+proficiency.
+
+Thank you for reading!
+Amara.
